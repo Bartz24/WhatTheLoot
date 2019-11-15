@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: WhatTheLoot
+Implementation-Version: 1.0
+Specification-Vendor: Bartz24
+Specification-Title: whattheloot
+Implementation-Timestamp: 2019-11-10T15:54:59-0500
+Specification-Version: 1
+Implementation-Vendor: Bartz24
+
